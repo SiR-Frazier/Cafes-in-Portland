@@ -37,3 +37,10 @@ img {
 .sign {
   float: right;
 }
+
+.local-scene {
+  margin: 6px;
+  border: 2px solid #4286f4;
+  padding: 3px;
+
+}
