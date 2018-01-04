@@ -28,3 +28,12 @@ img {
   color: #22aedd;
   font-style: italic;
 }
+
+.roses {
+  color: #f90000;
+  font-family: cursive;
+}
+
+.sign {
+  float: right;
+}
