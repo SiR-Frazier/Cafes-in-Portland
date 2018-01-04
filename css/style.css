@@ -19,3 +19,12 @@ li {
 img {
   height: 325px;
 }
+
+.important {
+  color: #cca559;
+}
+
+.unimportant {
+  color: #22aedd;
+  font-style: italic;
+}
